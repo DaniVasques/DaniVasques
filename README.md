@@ -6,6 +6,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&speed=50&pause=2000&repeat=true&color=F2CDCD&center=true&width=1000&lines=Ol%C3%A1%2C+sou+Daniela+Roballo!+%F0%9F%91%8B;Desenvolvedora+Full-Stack;apaixonado+por+tecnologia!" alt="Typing SVG" />
 </p>
 
+### 🚀 Desenvolvedora Full-Stack | C#.Net 
+
 ### 📚 **Minhas Referências de Livros**:
 
 - **MARTIN, Robert C.** **Código Limpo: Habilidades práticas do Agile Software.**  
