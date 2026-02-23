@@ -1,5 +1,5 @@
 
-<h1 align="center">🌸 Seja Bem-Vindo(a) 🌸</h1>
+<h1 align="center">🌸 Seja Bem-Vinda(o) 🌸</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=900&lines=Daniela+Robalo+Vasques;Desenvolvedora+Full-Stack+%7C+C%23+%2F+.NET;Construindo+projetos+com+Clean+Code+e+boas+pr%C3%A1ticas+%F0%9F%92%97" />
