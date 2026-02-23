@@ -1,8 +1,5 @@
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&speed=50&pause=2000&repeat=true&color=F2CDCD&center=true&width=1000&lines=Ol%C3%A1%2C+sou+Daniela+Roballo!+%F0%9F%91%8B;Desenvolvedora+Full-Stack;apaixonado+por+tecnologia!" alt="Typing SVG" />
-</p>
-
+<h1 align="center">🌸 Seja Bem-Vindo(a) 🌸</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=900&lines=Daniela+Robalo+Vasques;Desenvolvedora+Full-Stack+%7C+C%23+%2F+.NET;Construindo+projetos+com+Clean+Code+e+boas+pr%C3%A1ticas+%F0%9F%92%97" />
@@ -35,7 +32,7 @@
 
 ## 🧩 Tecnologias & Ferramentas
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git,github,html,css,js,ts,angular,sqlserver,docker,postman" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git,github,html,css,js,ts,angular,docker,postman,sqlserver" />
 </p>
 
 ---
@@ -44,16 +41,6 @@
 - ✅ *Sistema de Cadastro de Funcionários (Console + Dapper + SQL Server)*
 - ✅ *Projetos Full Stack (API .NET + Front Angular)*
 - ✅ *Estudos e desafios de lógica / POO / Clean Code*
-
-> (Dica: aqui você pode linkar direto os repositórios: [Nome do projeto](link))
-
----
-
-## 📊 GitHub Stats
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DaniVasques&show_icons=true&hide_title=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniVasques&layout=compact" />
-</p>
 
 ---
 
