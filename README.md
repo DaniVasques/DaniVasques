@@ -1,24 +1,70 @@
 
-
-
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&speed=50&pause=2000&repeat=true&color=F2CDCD&center=true&width=1000&lines=Ol%C3%A1%2C+sou+Daniela+Roballo!+%F0%9F%91%8B;Desenvolvedora+Full-Stack;apaixonado+por+tecnologia!" alt="Typing SVG" />
 </p>
 
-### 🚀 Desenvolvedora Full-Stack | C#.Net 
 
-### 📚 **Minhas Referências de Livros**:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=900&lines=Daniela+Robalo+Vasques;Desenvolvedora+Full-Stack+%7C+C%23+%2F+.NET;Construindo+projetos+com+Clean+Code+e+boas+pr%C3%A1ticas+%F0%9F%92%97" />
+</p>
 
-- **MARTIN, Robert C.** **Código Limpo: Habilidades práticas do Agile Software.**  
-  Boas práticas na escrita de código, com foco em clareza, simplicidade e manutenibilidade.
+<h1 align="center">✨ Desenvolvedora Full-Stack</h1>
 
-- **MARTIN, Robert C.** **Arquitetura Limpa: O guia do arquiteto de software pragmático.**  
-  Projetar sistemas escaláveis e sustentáveis, mantendo uma arquitetura bem estruturada.
+<p align="center">
+  🌸 C# | .NET | SQL Server | Angular • Em evolução constante • Foco em projetos reais
+</p>
 
+<p align="center">
+  <a href="www.linkedin.com/in/daniela-robalo">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/DaniVasques">
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-FF69B4?style=for-the-badge&logo=About.me&logoColor=white"/>
+  </a>
+</p>
 
-- **EVANS, Eric.** **Domain-Driven Design: Tackling Complexity in the Heart of Software.**  
-  Uma abordagem para desenvolver software focado no domínio do negócio.
+---
+
+## 💻 Sobre mim
+- 🎓 Estudante de ADS
+- 🧠 Estudando e praticando: *C# / ASP.NET, **SQL Server, **Angular, **Docker*
+- 🧩 Curto projetos bem estruturados: *POO, SOLID, Clean Architecture*
+- 🌷 Objetivo: entrar na área de desenvolvimento e evoluir na prática
+
+---
+
+## 🧩 Tecnologias & Ferramentas
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git,github,html,css,js,ts,angular,sqlserver,docker,postman" />
+</p>
+
+---
+
+## 📌 Projetos em destaque
+- ✅ *Sistema de Cadastro de Funcionários (Console + Dapper + SQL Server)*
+- ✅ *Projetos Full Stack (API .NET + Front Angular)*
+- ✅ *Estudos e desafios de lógica / POO / Clean Code*
+
+> (Dica: aqui você pode linkar direto os repositórios: [Nome do projeto](link))
+
+---
+
+## 📊 GitHub Stats
+<p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DaniVasques&show_icons=true&hide_title=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniVasques&layout=compact" />
+</p>
+
+---
+
+### 📚 Livros que me inspiram
+- *Código Limpo* — Robert C. Martin  
+- *Arquitetura Limpa* — Robert C. Martin  
+- *Domain-Driven Design* — Eric Evans  
+
+<p align="center">
+  🌷 Obrigada por visitar meu perfil! 🌷
+</p>
 
   ---
 
@@ -28,3 +74,11 @@
 
 ---
 
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
