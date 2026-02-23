@@ -12,10 +12,10 @@
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/daniela-robalo">
+  <a href="https://www.linkedin.com/in/daniela-robalo">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/DaniVasques">
+  <a href="https://github.com/DaniVasques?tab=repositories">
     <img src="https://img.shields.io/badge/Portf%C3%B3lio-FF69B4?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
 </p>
