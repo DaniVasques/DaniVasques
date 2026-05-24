@@ -1,4 +1,4 @@
-
+![Banner](./banner-github.jpeg)
 <h1 align="center">🌸 Seja Bem-Vinda(o) 🌸</h1>
 
 <p align="center">
